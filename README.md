@@ -2,7 +2,7 @@
 
 <h2 align="center">About me
 
- <h4 align="center">I am a big fan of computer science and everything related to the tech world. 
+ <h4 align="center">I am a big fan of computer science and everything related to the tech world  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9980ea3c-795a-43a7-a9b5-ed43932d1009" /> 
 
 
 
@@ -10,18 +10,20 @@
 
 <div align="center">
 
-<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/72467173-ab81-49b7-ae1a-2326ea012e6b" /> 
-<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/01ad4504-1b54-4c1a-9804-4886cc949db6" />            
-<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/e4eaa555-0bea-440a-88e9-ed1e31d36824" />
+ 
+<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/8bca8189-1caa-41c1-9f0a-ec6037f2bcbd" />
+<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/df0de9d8-3146-4a5e-96b5-751539755ee9" />      
+<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/7650a609-f206-4442-841f-7004057e271e" />
 
 
-<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/0b504694-bbeb-4f55-8679-04df2f709e10" /> 
-<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/8da7e489-2707-4f09-9763-accbbf4aff81" /> 
-<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/a8977f29-4d58-49a8-89a3-2dd0a790d13c" /> 
+<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/e090822e-4145-4108-8952-bbb7f646ba1b" />
+<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/be65c4a4-e58f-47d0-b4f7-3cc007d139bc" />
 
-<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/f431d573-0644-4668-8606-30cd5417958f" /> 
-<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/0ec40e18-4a2d-4bd3-adb9-5e3613c77cb6" />
-<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/dc94c870-9b2d-4186-81e8-101d8fc22161" />
+
+<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/8ceb5739-72cc-4681-903a-db20627eee37" />
+<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/ae133fb9-1a1a-4295-9008-3ac09552a318" />
+<img width="44" height="44" alt="image" src="https://github.com/user-attachments/assets/cf8f78ae-91d1-48d1-88f9-c6ed7c78b145" />
+
 
 </div>
 
